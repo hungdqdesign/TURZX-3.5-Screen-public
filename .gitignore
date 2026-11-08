@@ -1,0 +1,5 @@
+.deps/
+screen/turing_screen
+__pycache__/
+.venv/
+.DS_Store
